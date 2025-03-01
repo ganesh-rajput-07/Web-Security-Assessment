@@ -15,7 +15,7 @@ This project focuses on identifying and mitigating security vulnerabilities in a
 - Weak session management that could allow unauthorized access  
 
 ## 📖 Report & Documentation  
-[Security Report PDF]() (Upload a basic report or summary in PDF format)  
+[Security Report PDF]()
 
 ## 🚀 Learnings  
 - Gained hands-on experience with penetration testing methodologies  
